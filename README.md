@@ -17,7 +17,7 @@ Certain departments (like radiotherapy, anesthesia) have higher long stays
 Age and health conditions contribute to longer hospitalization
 Operational factors like staff availability and admission type also matter
 👉 Insight:
-Length of stay is not just clinical — it’s influenced by both medical and operational factors.
+Length of stay is not just clinical it’s influenced by both medical and operational factors.
 3. Data-Driven Approach
 Dataset: 500,000+ hospital records
 Created a binary target:
